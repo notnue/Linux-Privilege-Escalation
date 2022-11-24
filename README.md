@@ -14,7 +14,7 @@ TryHackMe: https://tryhackme.com/
 
 LinuxPrivEscArena: https://tryhackme.com/room/linuxprivescarena
 
-#Introduction
+# Introduction
 
 Basic Linux Priv Esc: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
