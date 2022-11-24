@@ -13,7 +13,8 @@ Course:
 TryHackMe: https://tryhackme.com/
 
 LinuxPrivEscArena: https://tryhackme.com/room/linuxprivescarena
-Introduction
+
+#Introduction
 
 Basic Linux Priv Esc: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 
@@ -22,7 +23,8 @@ Linux Priv Esc PayloadAllTheThings: https://github.com/swisskyrepo/PayloadsAllTh
 Linux Priv Esc Checklist: https://book.hacktricks.xyz/linux-unix/linux-privilege-escalation-checklist
 
 Sushant 747's Guide: https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html
-Exploring Automated Tools
+
+#Exploring Automated Tools
 
 LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
