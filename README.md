@@ -24,7 +24,7 @@ Linux Priv Esc Checklist: https://book.hacktricks.xyz/linux-unix/linux-privilege
 
 Sushant 747's Guide: https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html
 
-#Exploring Automated Tools
+# Exploring Automated Tools
 
 LinPEAS: https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
@@ -36,7 +36,8 @@ LinuxPrivChecker: https://github.com/sleventyeleven/linuxprivchecker
 Escalation Path: Kernel Exploits
 
 Kernel Exploits: https://github.com/lucyoa/kernel-exploits
-Escalation Path: Sudo
+
+# Escalation Path: Sudo
 
 GTFOBins: https://gtfobins.github.io/
 
@@ -54,12 +55,13 @@ CVE-2019-18634 GitHub: https://github.com/saleemrashid/sudo-cve-2019-18634
 Escalation Path: Other SUID Escalation
 
 Nginx Exploit: http://legalhackers.com/advisories/Nginx-Exploit-Deb-Root-PrivEsc-CVE-2016-1247.html
-Escalation Path: Capabilities
+
+# Escalation Path: Capabilities
 
 Priv Esc using Capabilities: https://www.hackingarticles.in/linux-privilege-escalation-using-capabilities/
 
 SUID vs. Capabilities: https://mn3m.info/posts/suid-vs-capabilities/
 
 Capabilites Priv Esc w/ OpennSLL and Selinux enabled and enforced: https://medium.com/@int0x33/day-44-linux-capabilities-privilege-escalation-via-openssl-with-selinux-enabled-and-enforced-74d2bec02099
-About
+
 
